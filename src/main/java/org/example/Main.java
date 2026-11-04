@@ -10,7 +10,7 @@ public class Main {
     static void main(String[] args) {
             int a = 1;
             int b = 4;
-            System.out.println(addition(1,4));
+            System.out.println(addition(a,b));
         }
 }
 
